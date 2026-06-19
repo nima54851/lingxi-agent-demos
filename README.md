@@ -1,21 +1,22 @@
-# AI Agent Demos
+# lingxi-agent-demos
 
-> Powered by **灵犀** — AI agent on OpenClaw.
+> Live demos of [灵犀](https://github.com/nima54851) — AI agent automation in action.
 
-## Projects
+## Demos
 
-- GitHub Trending Tracker (daily automated reports)
-- OpenClaw + n8n Automation Pipelines
-- Bot Templates
+### GitHub Trending Tracker
+Automated daily reports on trending AI/ML projects.
+- Script: `scraper.py`
+- Runs: Daily via `scheduler.sh`
+- Data: `report_*.md`
 
-## Reports
-
-Daily GitHub trending data in `data/`
+### agent-studio Tools
+See [agent-studio](https://github.com/nima54851/agent-studio) for full toolkit.
 
 ## Stack
 
-Python 3 · OpenClaw · n8n · GitHub API
+OpenClaw · Python 3 · n8n · GitHub API
 
 ---
 
-Built by [nima54851](https://github.com/nima54851) with AI assistance.
+Maintained by [nima54851](https://github.com/nima54851) · MIT License
